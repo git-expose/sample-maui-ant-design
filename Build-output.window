@@ -1,0 +1,102 @@
+Build started at 12:07...
+Starting emulator pixel_5_-_api_34 ...
+C:\Program Files (x86)\Android\android-sdk\emulator\emulator.EXE -netfast -accel on -avd pixel_5_-_api_34 -prop monodroid.avdname=pixel_5_-_api_34
+Emulator pixel_5_-_api_34 is running.
+Waiting for emulator to be ready...
+1>------ Build started: Project: AntDesign.TestApp.Maui, Configuration: Debug Any CPU ------
+1>C:\Program Files\dotnet\packs\Microsoft.Maui.Sdk\8.0.6\Sdk\BundledVersions.targets(85,5): warning MA002: Starting with .NET 8, setting  <UseMaui>true</UseMaui>  does not automatically include NuGet package references in your project.  Update your project by including this item:  <PackageReference Include="Microsoft.Maui.Controls" Version="8.0.6" />.  You can skip this warning by setting  <SkipValidateMauiImplicitPackageReferences>true</SkipValidateMauiImplicitPackageReferences>  in your project file.
+1>C:\Program Files\dotnet\packs\Microsoft.Maui.Sdk\8.0.6\Sdk\BundledVersions.targets(90,5): warning MA002: Starting with .NET 8, setting  <UseMaui>true</UseMaui>  does not automatically include NuGet package references in your project.  Update your project by including this item:  <PackageReference Include="Microsoft.AspNetCore.Components.WebView.Maui" Version="8.0.6" />.  You can skip this warning by setting  <SkipValidateMauiImplicitPackageReferences>true</SkipValidateMauiImplicitPackageReferences>  in your project file.
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>AntDesign.TestApp.Maui -> D:\MAUI\build-w-Figma-demo-hybrid\src\AntDesign.TestApp.Maui\bin\Debug\net8.0-android\AntDesign.TestApp.Maui.dll
+1>Done building project "AntDesign.TestApp.Maui.csproj".
+2>------ Deploy started: Project: AntDesign.TestApp.Maui, Configuration: Debug Any CPU ------
+2>Starting deployment to pixel_5_-_api_34 ...
+2>Deploying to pixel_5_-_api_34 ...
+Build started.
+Project "AntDesign.TestApp.Maui.csproj" (Install target(s)):
+There is no application host available for the specified RuntimeIdentifier 'android-arm'.
+There is no application host available for the specified RuntimeIdentifier 'android-arm64'.
+There is no application host available for the specified RuntimeIdentifier 'android-x86'.
+There is no application host available for the specified RuntimeIdentifier 'android-x64'.
+Starting with .NET 8, setting  <UseMaui>true</UseMaui>  does not automatically include NuGet package references in your project.  Update your project by including this item:  <PackageReference Include="Microsoft.Maui.Controls" Version="8.0.6" />.  You can skip this warning by setting  <SkipValidateMauiImplicitPackageReferences>true</SkipValidateMauiImplicitPackageReferences>  in your project file.
+Starting with .NET 8, setting  <UseMaui>true</UseMaui>  does not automatically include NuGet package references in your project.  Update your project by including this item:  <PackageReference Include="Microsoft.AspNetCore.Components.WebView.Maui" Version="8.0.6" />.  You can skip this warning by setting  <SkipValidateMauiImplicitPackageReferences>true</SkipValidateMauiImplicitPackageReferences>  in your project file.
+Found Java SDK version 17.0.8.1.
+Found Java SDK version 17.0.8.1.
+ Looking for Android NDK...
+ Looking for Android SDK...
+ Found Xamarin.Android 13.2.99.422
+Dex Fast Deployment Enabled: False
+MonoAndroid Tools: C:\Program Files\dotnet\packs\Microsoft.Android.Sdk.Windows\34.0.52\tools\
+Android Platform API level: 34
+TargetFrameworkVersion: v8.0
+Android NDK: 
+Android SDK: C:\Program Files (x86)\Android\android-sdk\
+Android SDK Build Tools: C:\Program Files (x86)\Android\android-sdk\build-tools\34.0.0\
+Java SDK: C:\Program Files (x86)\Android\openjdk\jdk-17.0.8.101-hotspot\
+Application Java class: android.app.Application
+_OuterIntermediateOutputPath: 
+IntermediateOutputPath: obj\Debug
+et8.0-android\
+Skipping target "_GenerateScopedCssFiles" because all output files are up-to-date with respect to the input files.
+Skipping target "_BuildCopyStaticWebAssetsPreserveNewest" because it has no outputs.
+Skipping target "ProcessMauiSplashScreens" because all output files are up-to-date with respect to the input files.
+Skipping target "ProcessMauiFonts" because all output files are up-to-date with respect to the input files.
+Skipping target "ResizetizeImages" because all output files are up-to-date with respect to the input files.
+Skipping target "_ResolveLibraryProjectImports" because all output files are up-to-date with respect to the input files.
+Skipping target "_BuildLibraryImportsCache" because all output files are up-to-date with respect to the input files.
+Touching "obj\Debug
+et8.0-android\case_map.txt".
+Skipping target "_GenerateResourceDesignerIntermediateClass" because all output files are up-to-date with respect to the input files.
+Skipping target "_GenerateLayoutBindings" because it has no outputs.
+Skipping target "_ConvertResourcesCases" because all output files are up-to-date with respect to the input files.
+Skipping target "_CompileResources" because all output files are up-to-date with respect to the input files.
+Skipping target "_PrepareUpdateAndroidResgen" because all output files are up-to-date with respect to the input files.
+Skipping target "_UpdateAndroidResgen" because all output files are up-to-date with respect to the input files.
+Project "AntDesign.TestApp.Maui.csproj" (_ComputeFilesToPublishForRuntimeIdentifiers target(s)):
+_OuterIntermediateOutputPath: obj\Debug
+et8.0-android\
+IntermediateOutputPath: obj\Debug
+et8.0-android\android-x64\
+Done building project "AntDesign.TestApp.Maui.csproj".
+Skipping target "_LinkAssembliesNoShrink" because all output files are up-to-date with respect to the input files.
+Skipping target "_GenerateJavaStubs" because all output files are up-to-date with respect to the input files.
+Skipping target "_ManifestMerger" because all output files are up-to-date with respect to the input files.
+Skipping target "_ConvertCustomView" because all output files are up-to-date with respect to the input files.
+Skipping target "_AddStaticResources" because all output files are up-to-date with respect to the input files.
+Skipping target "_GenerateEmptyAndroidRemapNativeCode" because all output files are up-to-date with respect to the input files.
+Skipping target "_GeneratePackageManagerJava" because all output files are up-to-date with respect to the input files.
+Skipping target "_GenerateAndroidAssetsDir" because all output files are up-to-date with respect to the input files.
+Skipping target "_PrepareCreateBaseApk" because all output files are up-to-date with respect to the input files.
+Skipping target "_CreateBaseApk" because all output files are up-to-date with respect to the input files.
+Skipping target "_CompileJava" because all output files are up-to-date with respect to the input files.
+Skipping target "_CompileNativeAssemblySources" because all output files are up-to-date with respect to the input files.
+Skipping target "_CreateApplicationSharedLibraries" because all output files are up-to-date with respect to the input files.
+Skipping target "_CompileToDalvik" because all output files are up-to-date with respect to the input files.
+Copying file from "D:\MAUI\build-w-Figma-demo-hybrid\src\AntDesign.TestApp.Maui\obj\Debug
+et8.0-android\android\bin\com.companyname.antdesign.testapp.maui.apk" to "D:\MAUI\build-w-Figma-demo-hybrid\src\AntDesign.TestApp.Maui\bin\Debug
+et8.0-android\com.companyname.antdesign.testapp.maui.apk".
+Creating "obj\Debug
+et8.0-android\android_debug_keystore.flag" because "AlwaysCreate" was specified.
+Touching "obj\Debug
+et8.0-android\android_debug_keystore.flag".
+C:\Program Files (x86)\Android\android-sdk\build-tools\34.0.0\zipalign.exe -p 4 "obj\Debug
+et8.0-android\android\bin\com.companyname.antdesign.testapp.maui.apk" "bin\Debug
+et8.0-android\\com.companyname.antdesign.testapp.maui-Signed.apk" 
+C:\Program Files (x86)\Android\openjdk\jdk-17.0.8.101-hotspot\bin\java.exe -jar "C:\Program Files (x86)\Android\android-sdk\build-tools\34.0.0\lib\apksigner.jar" sign --ks "C:\Users\user\AppData\Local\Xamarin\Mono for Android\debug.keystore" --ks-pass pass:android --ks-key-alias androiddebugkey --key-pass pass:android --min-sdk-version 24 --max-sdk-version 34  bin\Debug
+et8.0-android\com.companyname.antdesign.testapp.maui-Signed.apk 
+Signed android package 'bin\Debug
+et8.0-android\com.companyname.antdesign.testapp.maui-Signed.apk'
+Using cached value from RegisterTaskObject
+Found device: emulator-5554
+Creating "obj\Debug
+et8.0-android\upload.flag" because "AlwaysCreate" was specified.
+Touching "obj\Debug
+et8.0-android\upload.flag".
+Creating directory "obj\.cache\".
+Done building project "AntDesign.TestApp.Maui.csproj".
+Build succeeded.
+2>Deployment was successful to pixel_5_-_api_34.
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 12:09 and took 01:26.507 minutes ==========
+========== Deploy: 1 succeeded, 0 failed, 0 skipped ==========
+========== Deploy completed at 12:09 and took 01:26.507 minutes ==========
